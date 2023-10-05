@@ -3,7 +3,9 @@ package servicios;
 import java.util.ArrayList;
 
 import dtos.LibroDto;
-
+/**
+ * Interfaz que contiene todos los metodos que modifca la lista de objetos LibroDTO
+ */
 public interface LibroInterfaz {
 /**
  * Metodo que pide los datos y crea un objeto libro para añadirlo a la lista 

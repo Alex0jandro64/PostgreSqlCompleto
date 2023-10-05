@@ -1,5 +1,7 @@
 package dtos;
-
+/**
+ * Clase de objetos Libro
+ */
 public class LibroDto {
 
 	//Atributos

@@ -7,7 +7,9 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import dtos.LibroDto;
-
+/**
+ * Clase que contiene todos los metodos utiles
+ */
 public class Utilidades {
 
 	/**

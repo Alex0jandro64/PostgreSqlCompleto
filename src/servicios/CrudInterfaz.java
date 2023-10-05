@@ -4,7 +4,9 @@ import java.sql.Connection;
 import java.util.ArrayList;
 
 import dtos.LibroDto;
-
+/**
+ * Interfaz que contiene todos los metodos relacionados con la base de datos
+ */
 public interface CrudInterfaz {
 	/**
 	 * Metodo que crea una conexion con nuestra bd
